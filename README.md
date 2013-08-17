@@ -6,4 +6,4 @@ cpp-CharacterMovie
 ######  It will place a high load on your computer! ########
 
 
-@autor RKX1209
+@author RKX1209
